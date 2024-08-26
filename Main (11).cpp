@@ -12,7 +12,7 @@ int main() {
 // Create an object of Car
 Car carObj1;
 carObj1.brand = "Supra";
-carObj1.model = "MK 3";
+carObj1.model = "MK3";
 carObj1.year = 2024;
 // Create another object of Car
 Car carObj2;
