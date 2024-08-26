@@ -11,13 +11,13 @@ int year;
 int main() {
 // Create an object of Car
 Car carObj1;
-carObj1.brand = "Audi";
-carObj1.model = "Q8";
+carObj1.brand = "Supra";
+carObj1.model = "MK 3";
 carObj1.year = 2024;
 // Create another object of Car
 Car carObj2;
-carObj2.brand = "Mercedes";
- carObj2.model = "Maybach Eqs";
+carObj2.brand = "Buggati";
+ carObj2.model = "Chironn";
 carObj2.year = 2024;
 // Print attribute values
 cout << carObj1.brand << " " << carObj1.model << " " << carObj1.year << "\n";
